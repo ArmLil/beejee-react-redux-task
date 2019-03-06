@@ -60,7 +60,7 @@ class Header extends React.Component {
 
   render() {
     return (
-      <div className="row mb-3">
+      <div className="row mr-0 mb-3">
         <LoginModal
           showModal={this.state.showModal}
           handleClose={this.handleClose}
