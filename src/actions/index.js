@@ -3,7 +3,7 @@ export const SET_ADMIN = "SET_ADMIN";
 export const FETCH_DATA_BEGIN = "FETCH_DATA_BEGIN";
 export const FETCH_DATA_SUCCESS = "FETCH_DATA_SUCCESS";
 export const FETCH_DATA_FAILURE = "FETCH_DATA_FAILURE";
-export const CREATE_DATA_RESPONSE = "CREATE_DATA_SUCCESS";
+export const CREATE_DATA_RESPONSE = "CREATE_DATA_RESPONSE";
 export const SET_URL = "SET_URL";
 
 export const URL_ROOT = "https://uxcandy.com/~shapoval/test-task-backend";
